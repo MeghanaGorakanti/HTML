@@ -1,0 +1,74 @@
+.page1{
+    background-color: aqua;
+    border-radius: 10px;
+    border: 2px solid brown;
+    margin: 1px 10px 1px 10px;
+    padding: 20px;
+}
+.page1 h1{
+    text-align: center;
+    color: blue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.page1 p{
+    color:black;
+    text-align: justify;
+}
+.page2{
+    background-color: pink;
+    width: 500px;
+    margin: auto;
+    border: 2px solid pink;
+    
+}
+.page2 h1{
+    text-align: center;
+    color: blue;
+    
+}
+.page2 p{
+    color:brown;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+}
+header{
+    background-color: rgb(149, 214, 18);
+    text-align: center;
+    padding: 5px;
+}
+header h1{
+    color: aliceblue;
+    border: 7px solid white;
+    padding: 7px 12 px;
+    display: inline-block;
+    border-radius: 10px;
+
+}
+nav ul{
+    list-style-type: none;
+    background-color: rgb(229, 182, 96);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+nav li{
+    float: left;
+}
+nav a{
+    display: inline-block;
+    color:blue;
+    text-align: center ;
+    padding: 15px 30px;
+    margin: 20px 30px 20px 30px;
+    text-decoration: none;
+}
+footer{
+    background-color: rgb(233, 181, 190);
+    color:brown;
+    padding: 7px 12px;
+    text-align:center;
+    font-size: small;
+}
+
+
